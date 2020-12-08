@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Debug_Ex1_02</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Ex1_02</name>
+			<type>1</type>
+			<location>/home/jollu/Desktop/C++_git/Horton/1_ch/Ex1_02</location>
+		</link>
+	</linkedResources>
+</projectDescription>

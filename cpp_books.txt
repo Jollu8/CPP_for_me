@@ -1,0 +1,22 @@
+1. Blanchette, Jasmin, and Mark Summerfield. С++ GUI Programming with
+Qt 4, Second Edition. Prentice Hall, 2008. ISBN 0 1 32354 1 60.
+2. Koenlg, Andrew, and Barbara Е. Мао. Acce/erated С++: Practical Pro­
+grwnming Ьу Ехатр/е. Addison-Wesley, 2000. ISBN 020 1 70353Х.
+3. Meyers, Scott. Elfective С++: 55 Specific Ways to Improve Your Progrwns
+and Desigrts, Тhird Edition. Addison-Wesley. 2005. ISBN 032 1 334876.
+4. Schmidt, Douglas С . , and Stephen О. Huston . С++ Network Programming,
+Volume 1 : Masterin.g Complexity with АСЕ and Patterns. Addison-Wesley,
+200 1 . ISBN 020 1 60464 7 .
+5. Schmidt, Douglas С . , and Stephen О . Huston. С++ Network Progrwnming,
+Volume 2: Systematic Reuse with АСЕ and Frameworks. Addison-Wesley,
+2002. ISBN 020 1 795256.
+6. Stroustrup, Bjarne. Тhе Design and Evolution qf С++. Addison-Wesley,
+1 994. ISBN 020 1 543303.
+7. Stroustrup. Bjarne. "Learning Standard С++ as а New Language." С/С++
+Users Joumal, Мау 1 999.
+8. Stroustrup, Bjarne. Тhе С++ Programming Lan.guage, Fourth Edition. Addi­
+son-Wesley, 20 1 3 . ISBN 032 1 563840.
+9. Stroustrup, Bjarne. А Tour ojC++. Addison-Wesley, 20 1 3 .
+ISBN 032 1 9583 1 4.
+1 0. Sutter, Herb. Excepiional С++: 4 7 Engineerin.g Puzz/es, Programmin.g Prob­
+lerrts, and Solutions. Addison-Wesley. 1 999. ISBN 020 1 6 1 5622.
